@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Buck.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Buck.SchDoc|FileName=Buck2.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Buck.SchDoc|FileName=Isolator.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Buck.SchDoc|FileName=Latch.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Buck.SchDoc|FileName=Opamp.SchDoc|SheetNumber=2
