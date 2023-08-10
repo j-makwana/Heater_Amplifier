@@ -69,23 +69,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NBCEXIQN
 
 [Document2]
-DocumentPath=..\Integrated_Library1.LibPkg
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document3]
 DocumentPath=..\..\..\..\makwa\OneDrive\Documents\GitHub\altium-library\Celestial Library.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -102,7 +85,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document3]
 DocumentPath=..\..\..\..\makwa\OneDrive\Documents\GitHub\altium-library\Celestial Altium Library - altium_library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -119,7 +102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=..\AD22\Library\ExportIntLib\Components - 06.07.23 - 15.31.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,7 +119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=Buck.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +136,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EPUKJDRA
 
-[Document7]
+[Document6]
 DocumentPath=Opamp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,7 +153,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKFXJMDC
 
-[Document8]
+[Document7]
 DocumentPath=Isolator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -187,7 +170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZGORYWLO
 
-[Document9]
+[Document8]
 DocumentPath=Buck2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,7 +187,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HQJCXLBX
 
-[Document10]
+[Document9]
 DocumentPath=Latch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -220,23 +203,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBSSMKUT
-
-[Document11]
-DocumentPath=..\AD22\Library\ExportIntLib\NAND - 31.07.23 - 16.43.LibPkg
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PCB_Project\PCB_Project.nsx
@@ -468,6 +434,18 @@ OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=PCBDrawing
+OutputName14=Draftsman
+OutputDocumentPath14=
+OutputVariantName14=[No Variations]
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=PCBDrawing
+OutputName15=Draftsman
+OutputDocumentPath15=
+OutputVariantName15=[No Variations]
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -623,6 +601,12 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
+OutputType9=Project History
+OutputName9=Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
